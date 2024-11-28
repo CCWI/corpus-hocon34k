@@ -1,4 +1,4 @@
 theme: jekyll-theme-primer
 # theme: jekyll-theme-slate
-title: Corpus of German misogynistic hatespeech posts (GMHP7k)
-description: A corpus of 6000 annotated german social media posts from six brand pages on Facebook
+title: Corpus of Hate speech in Online Comments from German Newspapers (HOCON34k)
+description: A corpus of 34,223 annotated german hate speech comments from online newspapers

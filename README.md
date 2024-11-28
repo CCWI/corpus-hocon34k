@@ -165,7 +165,7 @@ The corpus is provided under the terms of the [Creative Commons Attribution 4.0 
 
 ## Citation
 The corpus was first presented at [iiWAS 2024](https://www.iiwas.org/conferences/iiwas2024/).
-> *Max-Emanuel Keller, Maximilian Auch, Alexander Döschl, Fabian Vlk, Julian Quernheim, Mike Hartmann, Peter Mandl, Alexander Kaul, Makrus Franz<br>
+> *Max-Emanuel Keller, Maximilian Auch, Alexander Döschl, Fabian Vlk, Julian Quernheim, Mike Hartmann, Peter Mandl, Alexander Kaul, Markus Franz<br>
 > **HOCON34k: Corpus of Hate speech in Online Comments from German Newspapers**<br>
 > Proceedings of the 26th International Conference on Information Integration and Web Intelligence<br>
 > Bratislava, Slovakia, December 2–4, 2024<br>*
